@@ -1,10 +1,10 @@
-package com.bhb.net.Solution;
+package com.bhb.net.blog;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SolutionServiceApplicationTests {
+class BlogServiceApplicationTests {
 
 	@Test
 	void contextLoads() {

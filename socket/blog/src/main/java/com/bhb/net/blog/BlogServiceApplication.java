@@ -1,13 +1,13 @@
-package com.bhb.net.Solution;
+package com.bhb.net.blog;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SolutionServiceApplication {
+public class BlogServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SolutionServiceApplication.class, args);
+		SpringApplication.run(BlogServiceApplication.class, args);
 	}
 
 }
