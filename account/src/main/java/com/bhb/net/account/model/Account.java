@@ -22,5 +22,6 @@ public class Account {
     private List<String> followers;
     private List<String> followings;
     private String phone;
+    private String password;
 
 }
